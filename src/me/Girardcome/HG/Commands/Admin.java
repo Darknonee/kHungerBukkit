@@ -17,6 +17,7 @@ public class Admin
   
   public Admin(Main plugin)
   {
+	  // If this works I am a boss
     this.plugin = plugin;
   }
   
