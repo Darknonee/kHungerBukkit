@@ -1,0 +1,35 @@
+name: BlizzteamHG
+author: pro_uncharted
+version: 1.0
+main: me.Girardcome.HG.Main.Main
+commands:
+  Start:
+    description: Commencer la partie 
+  vanish:
+    description: Se mettre en Vanish
+  v:
+    description: Se mettre en Vanish !
+  ip:
+    description: Avoir l'ip du serveur
+  msg:
+    description: envoyer un message a un joueur
+  admin:
+    description: Changer son mode de jeux
+  inv:
+    description: Ouvrire l'inventaire d'un joueur
+  inventaire:
+    description: Ouvrire l'inventaire d'un joueur
+  kit:
+    description: Take a kit.
+  spawn:
+    description: Spawn anywhere.
+  random:
+    description: Spawn anywhere
+  kitinfo:
+    description: Spawn anywhere
+  status:
+    description: Generate a feast
+  invincibility:
+    description: Skip the invincibility grace
+  kits:
+    description: Open an inventory

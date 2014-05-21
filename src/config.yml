@@ -1,0 +1,35 @@
+###############################
+#							  #
+#	Fichier de Configuration  #
+#	  des serveurs LVPvP	  #
+#							  #
+###############################
+
+# Quand la personne a pas la permission
+NoPerm: Unknown command. Type "/help" for help.
+
+#Liste des kits gratuits
+Kits:
+  - Archer
+  - Kangaroo
+  - Anchor
+
+#Tout les kits pour les Modo, Modo+ et ADMIN
+allKits:
+  - Beastmaster
+  - Berserker
+  - Boxer
+  - Burrower
+  - Camel
+  - Cannibal
+  - Cookiemonster
+  - Demon
+  - Docter
+  - Dwarf
+  - Fireman
+  - Fisherman
+  - Flash
+  - Forger
+  - Frosty
+  - Gladiator
+  - Kangaroo
