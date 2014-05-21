@@ -5813,7 +5813,7 @@ public class KitSelector implements Listener, CommandExecutor {
 		}
 		return owned;
 	}//i do it really wrongly and it was when i was a noobie on coding xD
-	@Override
+	// Removed @Override
 	public boolean onCommand(CommandSender arg0, Command arg1, String arg2,
 			String[] arg3) {
 		Player p = (Player) arg0;
